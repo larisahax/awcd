@@ -1,4 +1,8 @@
 
+# awcd 
+
+Adaptive Weights Community Detection
+-----------
 
 AWCD is a novel non-parametric community detection technique based on adaptive weights. Weights are recovered using an iterative procedure based on statistical test of "no gap". The procedure is fully adaptive, allows overlapping communities, it is numerically feasible and applicable for large graphs, demonstrates very good performance on artifical and real world networks.
 
