@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib as mpl
+mpl.use('TkAgg')
 from src.AWCD import AWCD
 from src.awcd_help import clustering_from_weights_sparse
 from utils.graph_generator import generate_sbm
