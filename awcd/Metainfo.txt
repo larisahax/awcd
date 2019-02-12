@@ -1,0 +1,13 @@
+Name of Quantlet: awcd
+
+Published in: Phd Thesis
+
+Description:  'Implementation of the Adaptive Weights Community Detection algorithm.'
+
+Keywords: community-detection, kullback-leibler, nonparametric, adaptive-weights, gap-coefficient, graph-clustering, overlapping-communities
+
+Author: Larisa Adamyan, Kirill Efimov, Vladimir Spokoiny
+
+Submitted [python]: Tue, February 12 2019 by Larisa Adamyan
+
+Output: 'plot of 3 windows: 1. the true weight matrix of a graph (white means 1, black is 0), 2. the adjacency matrix,  3. the final weight matrix detected by AWCD.'
