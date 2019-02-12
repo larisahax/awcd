@@ -19,7 +19,7 @@ def run_awcd_example():
 		 [to_out, t_in, to_out, to_out],
 		 [to_out, to_out, t_in, to_out],
 		 [to_out, to_out, to_out, t_in]]
-		)	
+		)
 	C_true, A, n = generate_sbm(n_list, theta)
 	params = {
 		'distance': 'wa', # wa (W * A) for fast calculation, 'ww' (W * W) for full calculation.
